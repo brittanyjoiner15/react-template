@@ -31,6 +31,7 @@ const Sidebar = () => {
 const Footer = () => {
   return <div className="border-top p-2">Template Demo © 2019</div>;
 };
+
 const Template = (props) => {
   return (
     <React.Fragment>

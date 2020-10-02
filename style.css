@@ -2,3 +2,7 @@
   font-size: 45px;
   color: blue;
 }
+
+body {
+  height: 200vh;
+}
